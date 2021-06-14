@@ -10,4 +10,10 @@ asd
 
 ## Deployment 
 testando
+
 ## How to Contribuite
+
+
+### Copyright
+
+2021 Git.Training.
