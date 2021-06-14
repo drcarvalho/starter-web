@@ -5,7 +5,9 @@ Showing how to use Git and Github together.
 ## Introduction 
 
 ## Purpose
+sdasd 
+asd
 
 ## Deployment 
-
+testando
 ## How to Contribuite
